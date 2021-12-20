@@ -12,3 +12,6 @@ target/
 .project
 .classpath
 .secret
+
+# IntelliJ Idea
+.idea
